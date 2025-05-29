@@ -71,13 +71,6 @@ The script automatically handles MoEngage's rate limits:
 - Automatically pauses for 1 minute when rate limit is reached
 - Resumes processing after the pause
 
-## Testing
-
-Run the test suite:
-```bash
-npm test
-```
-
 ## Reference Documentation
 
 For more information about the MoEngage User Deletion API, please refer to the official documentation:
